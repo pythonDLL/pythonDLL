@@ -1,1 +1,1 @@
-![header](header.gif)
+<center>![header](header.gif)</center>
