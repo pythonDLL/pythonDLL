@@ -10,3 +10,5 @@ class WhoAmI:
       self.language = "python"
       self.hobbies = ["watching anime.", "chilling."]
 ```
+
+![](https://komarev.com/ghpvc/?username=Rubekzz&color=blueviolet&style=flat-square&abbreviated=true)
