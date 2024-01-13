@@ -3,7 +3,7 @@
 <p align="center"><img src="https://lanyard.cnrad.dev/api/1187723334448848946"></img></p>
 
 ```py
-class WhoAmI(object):
+class WhoAmI:
     def __init__(self):
       self.name = "Mohammad Hassan"
       self.religion = "Muslim"
