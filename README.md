@@ -1,8 +1,7 @@
 ```py
 class Rubekzz:
     def __init__(self):
-      self.name = "Rubekzz aka PythonDLL"
-      self.language = "python"
-      self.hobbies = ["watching anime.", "chilling."]
-      self.ign = {"Minecraft": "Rubekzz"}
+      self.language = 'Python'
+      self.learning = ['Golang', 'Javascript']
+      self.hobbies = ['Programming shit', 'Anime']
 ```
